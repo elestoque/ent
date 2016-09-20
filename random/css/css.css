@@ -1,0 +1,7 @@
+img {
+	display:none;
+}
+
+p.one:hover + img{
+	display: block;
+}
