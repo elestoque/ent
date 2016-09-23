@@ -464,7 +464,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .title-one:after {
-	color: #FFB6C1;
+	color: #FFB6C1 ;
 	content: "||";
 	position: absolute;
 	right: -40px;
@@ -512,7 +512,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .about-us .nav-tabs li a {
 	border-top:2px solid #f6f6f6;
-	color:#fc7700
+	color:#FFB6C1;
 }
 
 .about-us .nav-tabs li.active a, 
